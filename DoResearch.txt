@@ -1,0 +1,5 @@
+29/09:
+> distribution right skewed.
+> Square Root
+> Logarithmic
+> What's a time series?
